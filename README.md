@@ -1,4 +1,4 @@
-# 👋 Hello, I'm mecitsemerci
+# 👋 Hello, I'm Mecit
 
 **Lead Software Engineer | Software Architect**
 
