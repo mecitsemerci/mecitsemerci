@@ -119,13 +119,12 @@ Infrastructure:          Kubernetes, Docker, Consul, Cloud Platforms
 Observability:           OpenTelemetry, Prometheus, Jaeger, ELK Stack
 Security & Auth:         OAuth 2.0, OIDC, JWT, RBAC, ABAC, Behavioral Analytics
 AI/ML Integration:       Python, Spacy, Machine Learning Platforms, LLM APIs
-Databases:               Bolt, PostgreSQL, Distributed Data Stores
+Databases:               PostgreSQL, Redis, Distributed Data Stores
 Monitoring & Testing:    Allure, Health Checks, Prometheus
 ```
 
 ## 📊 Key Statistics
 
-- **40+ Repositories** - Production and reference projects
 - **Multi-Language Architecture** - Go, Python, JavaScript, TypeScript, C#
 - **Full-Stack Systems** - From distributed backends to modern frontends
 - **DevOps & Infrastructure** - Kubernetes, Docker, Service Discovery
