@@ -35,24 +35,7 @@ I'm a software architect and lead engineer with a passion for designing robust, 
 - **[Trustvian](https://github.com/Trustvian/trustvian)** - Behavioral Security & Trust Engine - Advanced anomaly detection and trust-based access control system built in Go
 
 ### Observability & Telemetry
-- **[consul-demo](https://github.com/mecitsemerci/consul-demo)** - Service discovery with observability patterns using Consul and Kubernetes
 - **[health-go](https://github.com/mecitsemerci/health-go)** - Health checking and observability patterns for production systems
-- **[go-k8s-demo](https://github.com/mecitsemerci/go-k8s-demo)** - Kubernetes deployment with monitoring and observability integration
-
-### Specialized Solutions
-- **[cvparser](https://github.com/mecitsemerci/cvparser)** - NLP-based data parsing system with privacy considerations
-- **[exifremover](https://github.com/mecitsemerci/exifremover)** - Data processing and privacy utility in Go
-
-## 🤝 Architecting Open Source Contributions
-
-**AI & LLM Platform Architecture**
-- **[Pezzo](https://github.com/mecitsemerci/pezzo)** - LLMOps platform architecture for AI workflows with security and observability
-- **[MindDB](https://github.com/mecitsemerci/mindsdb)** - ML platform infrastructure with integration patterns and monitoring
-
-**Backend & Infrastructure Patterns**
-- **[go-patterns](https://github.com/mecitsemerci/go-patterns)** - Design patterns and idioms for production Go systems, including security patterns
-- **[Bolt](https://github.com/mecitsemerci/bolt)** - Embedded database architecture for Go applications
-- **[go-toolbox](https://github.com/mecitsemerci/go-toolbox)** - Reusable Go utility library with observability instrumentation
 
 ## 🏛️ Architecture & Design Philosophy
 
